@@ -12,7 +12,7 @@ I recomend to use this app combined with AutoHotKey with a script like this:
   
   Clipboard :=
   
-  Run, C:\Users\{yourusername}\Desktop\Pass4Kee
+  Run, C:\Users\(yourusername)\Desktop\Pass4Kee
   
   WinWait, Pass4Kee,
   
