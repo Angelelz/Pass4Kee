@@ -5,7 +5,7 @@ If you cancel, you can change the password.
 
 I recomend to use this app combined with AutoHotKey with a script like this:
 
-<AHKcode>
+CodeStart:
 ^!q::
    ClipSaved := ClipboardAll
    Clipboard :=
@@ -20,6 +20,6 @@ I recomend to use this app combined with AutoHotKey with a script like this:
    
    
 Return
-</AHKcode>
+CodeFinnish
 
 You obiously need to put a Pass4Kee shortcut in the desktop
