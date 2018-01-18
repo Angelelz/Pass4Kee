@@ -31,3 +31,6 @@ I recomend to use this app combined with AutoHotKey with a script like this:
 
 
 You obiously need to put a Pass4Kee shortcut in the desktop
+
+If you found a certificate error, follow this:
+https://stackoverflow.com/questions/23812471/installing-appx-without-trusted-certificate/24372483
